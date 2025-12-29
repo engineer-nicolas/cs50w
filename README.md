@@ -19,21 +19,4 @@ CS50W builds on basic programming knowledge and focuses on the design and implem
 
 The course emphasizes real-world web development practices, including backend logic, frontend interactivity, and database-driven applications.
 
----
-
-## 🛠 Technologies Used
-
-- **Python**
-- **Django**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **SQLite / SQL**
-- **Git**
-
----
-
-## 📂 Repository Structure
-
-The repository is organized by lectures and projects:
 
