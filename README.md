@@ -6,7 +6,7 @@ The goal of this repository is both educational and demonstrative: to reinforce 
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 CS50W builds on basic programming knowledge and focuses on the design and implementation of web applications using:
 
